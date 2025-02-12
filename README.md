@@ -1,5 +1,7 @@
 Here’s a completed version of your introduction with the details you’ve shared:
 
+Here’s your updated introduction with your quote and a relevant icon:
+
 	•	👋 Hi, I’m @disciplesian
 	•	👀 I’m interested in coding, language translation and interpretation, AI, cybersecurity, and non-profit development.
 	•	🌱 I’m currently learning more about AI advancements, cybersecurity strategies, and ways to empower the Zomi community through technology and media.
@@ -7,7 +9,9 @@ Here’s a completed version of your introduction with the details you’ve shar
 	•	📫 How to reach me: [Provide contact details or preferred platform]
 	•	😄 Pronouns: Child of God
 	•	⚡ Fun fact: I was an early adopter of AI 🤖 and started my cyber journey in Y2K.
+	•	🗣️ “Your accent is your unique contribution to the linguistic world.” – @disciplesian
 
+Would you like any further tweaks?
 
 <!---
 disciplesian/disciplesian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

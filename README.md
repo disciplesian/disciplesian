@@ -1,6 +1,3 @@
-Here’s a completed version of your introduction with the details you’ve shared:
-
-Here’s your updated introduction with your quote and a relevant icon:
 
 	•	👋 Hi, I’m @disciplesian
 	•	👀 I’m interested in coding, language translation and interpretation,
@@ -15,8 +12,6 @@ through technology and media.
 	•	😄 Pronouns: Child of God
 	•	⚡ Fun fact: I was an early adopter of AI 🤖 and started my cyber journey in Y2K.
 	•	🗣️ “Your accent is your unique contribution to the linguistic world.” – @disciplesian
-
-Would you like any further tweaks?
 
 <!---
 disciplesian/disciplesian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,7 +10,7 @@
 
 😄 Pronouns: Child of God
 
-⚡ Fun fact: I was an early adopter of AI 🤖 and started my cyber journey in Y2K.
+⚡ Fun fact: I was an early adopter of AI 🤖 and started my cyber journey before Y2K.
 
 🗣️ “Your accent is your unique contribution to the linguistic world.” – @disciplesian
 
